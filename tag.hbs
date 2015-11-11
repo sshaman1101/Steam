@@ -12,13 +12,16 @@
             <div class="post-meta"><time datetime="{{date format='DD.MM.YYYY'}}">{{date format="DD.MM.YYYY"}}</time></div>
         </header>
         <section class="post-excerpt">
-            <a class="excerptlink" href="{{url}}"><p>{{excerpt words="20"}}&hellip;</p></a>
-            <p class="readmore"><a href="{{url}}"><i class="fa fa-angle-double-right" style="padding-left: 5px;"></i></a></p>
+            <a class="excerptlink" href="{{url}}">
+                <p>
+                    {{excerpt words="25"}}&hellip;
+                    <i class="fa fa-angle-double-right" style="padding-left: 5px;"></i>
+                </p>
+            </a>
         </section>
     </article>
 
     {{/foreach}}
-
+    
     {{pagination}}
-
 </main>
