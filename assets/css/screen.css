@@ -116,7 +116,7 @@ article.preview {
   margin-bottom: 4em;
 }
 article.preview p.readmore {
-  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   margin-top: 1em;
   text-transform: uppercase;
   font-weight: 400;
@@ -196,7 +196,7 @@ section.share p {
   margin: 0;
 }
 section.author h4 {
-  font-family: "Roboto Slab", "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
   font-weight: 400;
   margin-bottom: 4px;
 }
@@ -205,7 +205,7 @@ section.share p.info {
   font-size: 16px;
   line-height: 20px;
   text-transform: uppercase;
-  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: sans-serif;
 }
 section.share p.info.prompt {
   top: -5px;
@@ -596,7 +596,7 @@ p.backtotop {
   font-size: 16px;
   line-height: 20px;
   text-transform: uppercase;
-  font-family: "Open Sans Condensed", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;
+  font-family: sans-serif;
   top: 5px;
   position: relative;
   text-align: left;
